@@ -1,5 +1,13 @@
 # ShootThemUp
 
-Projet réalisé dans le cadre du module de programmation orienté objet en C++. Utilisation de la bibliothèque SFML 1.6.
+Développement d’un jeu de type Shoot Them Up en C++ avec la librairie SFML.
 
-Semestre 2
+## Réalisations
+
+* Réalisation d’une phase de conception avec diagrammes de classes, diagramme des cas d’utilisations … 
+*	Développement du jeu en C++ avec la librairie graphique SFML 
+
+## Environnement
+
+Visual Studio, SFML (librairie graphique) 
+
